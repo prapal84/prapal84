@@ -20,7 +20,7 @@ Currently exploring **AI agents** and open to collaboration, learning, and remot
 ### 📫 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/praveenpalakodeti/)  
-- 📧 your.email@example.com
+- 📧 pvvpraveen@hotmail.com
 
 <!--
 **your-username/your-username** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
